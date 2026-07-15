@@ -21,6 +21,7 @@ Then run:bashpython app/portfolio.pyThis will create the vectorstore/ folderRun 
 
 **Project Structurejavascriptcold-email-generator/**
 
+
 <img width="515" height="422" alt="Screenshot 2026-07-13 210539" src="https://github.com/user-attachments/assets/8dfd4ae1-790b-49a0-b76b-bf4141b5538b" />
 
 
